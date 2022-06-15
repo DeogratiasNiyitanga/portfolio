@@ -13,7 +13,7 @@
 <main id="main">
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <section id="about" class="out">
         <div class="container">
 
             <div class="section-title">
